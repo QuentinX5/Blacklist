@@ -78,7 +78,6 @@
 0.0.0.0 www.wip4.adobe.com
 #</block-adobe>
 255.255.255.255 broadcasthost
-#16.217.0.0 = *.ip.att.net
 127.0.0.1 16.217.0.0
 127.0.0.1 rosettastone.com
 127.0.0.1 launch.rosettastone.com
