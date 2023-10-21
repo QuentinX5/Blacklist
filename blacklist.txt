@@ -78,8 +78,6 @@
 0.0.0.0 www.wip4.adobe.com
 #</block-adobe>
 255.255.255.255 broadcasthost
-::1 localhost
-fe80::1%lo0 localhost
 #16.217.0.0 = *.ip.att.net
 127.0.0.1 16.217.0.0
 127.0.0.1 rosettastone.com
@@ -88,7 +86,6 @@ fe80::1%lo0 localhost
 127.0.0.1 resources.rosettastone.com
 127.0.0.1 updates.rosettastone.com
 # Custom host records are listed here.
-127.0.0.1	localhost	localhost.localdomain
 127.0.0.1	ServerHost	host.apache.local
 127.0.0.1	ServerStatus	stat.apache.local
 127.0.0.1	ServerInfo	info.apache.local
